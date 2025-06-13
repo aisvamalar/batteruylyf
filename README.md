@@ -42,10 +42,8 @@ Battery degradation and inefficient power usage are common pain points across de
 ---
 
 IMAGES:
-![image](https://github.com/user-attachments/assets/c9582f40-3f49-47b6-ab1b-b2dc74ef94bf)   ![image](https://github.com/user-attachments/assets/d36f4ea4-7926-44d8-a429-dcfe0da4de34)
+![image](https://github.com/user-attachments/assets/d806d1c2-614a-4288-bdc2-90c9b784c6cf)
 
-
-![image](https://github.com/user-attachments/assets/456d26a5-f595-45e0-be7d-1aac9ffbfe0f)   ![image](https://github.com/user-attachments/assets/7567d865-c36b-49bd-a82a-be4946e6a469)
 
 
 
