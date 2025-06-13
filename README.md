@@ -5,7 +5,7 @@ BATTERY LIFE PREDICTION APP:
 > ⚡ Built with performance, user experience, and precision in mind.
 
 ---
-
+NOTE : ** CHECK THE master BRANCH FOR THE REPOSITORY**
 **📌 OVERVIEW**
 
 Battery degradation and inefficient power usage are common pain points across devices. `batterylyf` addresses this by offering:
